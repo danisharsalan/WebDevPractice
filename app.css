@@ -1,0 +1,28 @@
+h1 {
+	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px solid rgb(23, 0, 100);
+}
+
+li {
+	color: #903D56;
+}
+
+body {
+	background: pink;
+/*	background: url("http://wtnhydrographics.com/images/images%20from%20sites/webimages/wood%20grains/537%20-%20180%20Orange%20Wood%20Grain.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+h2 {
+	color: rgba(11, 99, 109, 0.8)
+}
+
+h4 {
+	color: rgb(23, 0, 100);
+	background: rgb(255, 100, 80);
+}
