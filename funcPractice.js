@@ -11,11 +11,8 @@ console.log(factorial(5));
 console.log(factorial(0));
 console.log(factorial(3));
 function factorial(num) {
-	if(num === 0){
-		return 1;
-	}
 	var answer = 1;
-	for(var x = 1; x <= num; x++){
+	for(var x = 2; x <= num; x++){
 		answer *= x;
 	}
 	return answer;
