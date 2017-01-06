@@ -1,0 +1,15 @@
+{
+  "name": "package-json-demo",
+  "version": "1.0.0",
+  "description": "Simple Package.json practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danish Arsalan",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.14.0"
+  }
+}
