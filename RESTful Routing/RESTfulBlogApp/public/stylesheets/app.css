@@ -2,6 +2,14 @@ i.icon {
 	font-size: 1.25em;
 }
 
+.home{
+	margin-top: 4.0em;
+}
+
 .container.main {
 	margin-top: 6.0em;
+}
+
+#delete {
+	display: inline;
 }
